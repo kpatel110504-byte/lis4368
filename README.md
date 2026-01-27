@@ -14,7 +14,7 @@ Each folder includes screenshots, code explanations, and required deliverables.
 
 ## Course Work Links
 
-1. [A1 README.md](a1/README.md "Assignment 1 README.md")
+1.[A1 README.md](a1/README.md "My A1 README.md file")
 
    - Install required tools (AMPPS, JDK, Apache Tomcat)
    - Configure and run Tomcat locally
