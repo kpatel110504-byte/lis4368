@@ -24,8 +24,7 @@ Each folder includes screenshots, code explanations, and required deliverables.
 
    
 
-## Tomcat Running
-![Tomcat Running](./lis4368_student_file/img/tomcat.png)
+
 
 2. [A2 README.md](a2/README.md "Assignment 2 README.md")
 
