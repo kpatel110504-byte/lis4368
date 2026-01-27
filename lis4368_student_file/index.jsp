@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Advanced Web Development Class">
-	<meta name="author" content="Khushi Patel">
+	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
+	<meta name="author" content="Mark K. Jowett, Ph.D.">
 	<link rel="icon" href="favicon.ico">
-<link rel="stylesheet" href="./css/fsu-theme.css">
-	<title>Khushi Patel -  LIS4638</title>
+
+	<title>My Online Portfolio</title>
 
 	<%@ include file="/css/include_css.jsp" %>		
 
