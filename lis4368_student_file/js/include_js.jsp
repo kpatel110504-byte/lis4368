@@ -11,10 +11,10 @@
 <script src="https://cdn.datatables.net/v/dt/dt-1.10.16/r-2.2.1/datatables.min.js"></script>
 
 <!-- Turn off client-side validation, in order to test server-side validation. -->
-<script type="text/javascript"><%@include file="/WEB-INF/js/formValidation/formValidation.min.js"%></script>
+<script type="text/javascript"><%@include file="/lis4368_student_file/WEB-INF/js/formValidation/formValidation.min.js"%></script>
 
 <!-- Note the following bootstrap.min.js file is for form validation, different from the one above. -->
-<script type="text/javascript"><%@include file="/WEB-INF/js/formValidation/bootstrap.min.js"%></script>
+<script type="text/javascript"><%@include file="/lis4368_student_file/WEB-INF/js/formValidation/bootstrap.min.js"%></script>
 
 	<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-<script type="text/javascript"><%@include file="/WEB-INF/js/ie10-viewport-bug-workaround.js"%></script>
+<script type="text/javascript"><%@include file="/lis4368_student_file/WEB-INF/js/ie10-viewport-bug-workaround.js"%></script>

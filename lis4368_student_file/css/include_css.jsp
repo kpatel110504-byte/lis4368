@@ -19,11 +19,15 @@ http://stackoverflow.com/questions/32039568/what-are-the-integrity-and-crossorig
 
 <!-- Starter template for your own custom styling. -->
 <!-- https://stackoverflow.com/questions/7382607/how-to-load-css-file-into-jsp -->
-<style><%@include file="/WEB-INF/css/starter-template.css"%></style>
+<style>
+	<%@ include file="/lis4368_student_file/WEB-INF/css/starter-template.css" %>
+</style>
 
 <!-- Form validation styling. -->
-<style><%@include file="/WEB-INF/css/formValidation.min.css"%></style>
+<style>
+	<%@ include file="/lis4368_student_file/WEB-INF/css/formValidation.min.css" %>
+</style>
 
 <!-- jQuery DataTables: http://www.datatables.net/ //-->
 <!-- jQuery DataTables CDN: https://cdn.datatables.net/ //-->
-<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.16/r-2.2.1/datatables.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.16/r-2.2.1/datatables.min.css" />
