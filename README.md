@@ -1,10 +1,10 @@
 > **NOTE:** This README.md file should be placed at the **root of your main directory.**
 
-# Class number and name
+# LIS4368 - Advanced Web Application Development
 
-## Your name
+## Khushi Patel
 
-### Class Number Requirements:
+### LIS4368 Requirements:
 
 *Course Work Links:*
 
