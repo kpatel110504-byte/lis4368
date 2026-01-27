@@ -1,0 +1,70 @@
+:root {
+	--fsu-garnet: #782F40;
+	--fsu-gold: #CEB888;
+	--fsu-garnet-dark: #5e2432;
+	--fsu-gold-light: #e3d1a7;
+}
+
+body {
+	padding-top: 50px;
+}
+
+.starter-template {
+	padding: 0 15px;
+	text-align: center;
+}
+
+h1,
+.page-header h1 {
+	margin: 0;
+	color: var(--fsu-garnet);
+	font-size: 48px;
+	font-family: "trebuchet ms", sans-serif;
+}
+
+h2 {
+	color: var(--fsu-garnet);
+	font-family: "trebuchet ms", sans-serif;
+}
+
+.navbar {
+	background-color: var(--fsu-garnet);
+	border-color: var(--fsu-garnet-dark);
+}
+
+.navbar .navbar-brand,
+.navbar .navbar-nav>li>a {
+	color: var(--fsu-gold) !important;
+}
+
+.navbar .navbar-brand:hover,
+.navbar .navbar-nav>li>a:hover {
+	color: var(--fsu-gold-light) !important;
+}
+
+.navbar .navbar-nav>.active>a {
+	color: #fff !important;
+	background-color: var(--fsu-garnet-dark) !important;
+}
+
+.page-header {
+	border-bottom: 3px solid var(--fsu-gold);
+}
+
+.carousel .carousel-caption h3,
+.carousel .carousel-caption p {
+	color: var(--fsu-gold);
+	text-shadow: 0 1px 3px rgba(0, 0, 0, .7);
+}
+
+.carousel-control .glyphicon {
+	color: var(--fsu-gold);
+}
+
+.carousel-indicators li {
+	border-color: var(--fsu-gold);
+}
+
+.carousel-indicators .active {
+	background-color: var(--fsu-gold);
+}
