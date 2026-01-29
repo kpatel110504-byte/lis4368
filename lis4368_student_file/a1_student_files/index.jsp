@@ -32,7 +32,7 @@
 					</div>
 
 					<h4>JDK Installation:</h4>
-					<img src="img/jdk_install.png" class="img-responsive center-block" alt="JDK Installation" />
+					<img src="./../../lis4368_student_file/img/jdk_install.png" class="img-responsive center-block" alt="JDK Installation" />
 
 					<br /> <br />
 					<b>Tomcat Installation:</b><br />
