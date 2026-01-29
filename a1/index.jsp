@@ -10,10 +10,10 @@
 	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
 	<meta name="author" content="Mark K. Jowett, Ph.D.">
 	<link rel="icon" href="favicon.ico">
-
+<link rel="stylesheet" href="./../css/fsu-theme.css">
 	<title>LIS4368 - Assignment1</title>
 
-	<%@ include file="/css/include_css.jsp" %>		
+	<%@ include file="/lis4368_student_file/css/include_css.jsp" %>		
 	
 </head>
 <body>
@@ -23,7 +23,7 @@
 	
 <!-- can also find path like this...<a href="${pageContext.request.contextPath}${'/a5/index.jsp'}">A5</a> -->
 
-	<%@ include file="/global/nav.jsp" %>	
+	<%@ include file="/lis4368_student_file/global/nav.jsp" %>	
 
 	<div class="container">
 		<div class="starter-template">
@@ -32,18 +32,18 @@
 					</div>
 
 					<h4>JDK Installation:</h4>
-					<img src="img/jdk_install.png" class="img-responsive center-block" alt="JDK Installation" />
+					<img src="./../../lis4368_student_file/img/jdk_install.png" class="img-responsive center-block" alt="JDK Installation" />
 
 					<br /> <br />
 					<b>Tomcat Installation:</b><br />
-					<img src="img/tomcat.png" class="img-responsive center-block" alt="Tomcat Installation" />
+					<img src="./../../lis4368_student_file/img/tomcat.png" class="img-responsive center-block" alt="Tomcat Installation" />
 
-	<%@ include file="/global/footer.jsp" %>
+	<%@ include file="/lis4368_student_file/global/footer.jsp" %>
 
 	</div> <!-- end starter-template -->
  </div> <!-- end container -->
 
- 	<%@ include file="/js/include_js.jsp" %>		
+ 	<%@ include file="/lis4368_student_file/js/include_js.jsp" %>		
 
 </body>
 </html>
