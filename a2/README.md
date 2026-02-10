@@ -1,0 +1,65 @@
+# LIS4368 - Assignment 2
+
+## Khushi Patel  
+Course: LIS4368 - Mobile Web Application Development
+
+---
+
+## Assignment 2 Requirements
+
+1. Configure and run servlet examples (HelloWorld / SayHello).
+2. Deploy and test `querybook.html` for querying the `ebookshop` database.
+3. Verify that the servlet correctly processes the query and displays results.
+4. Deploy and run `a2/index.jsp` and confirm it renders correctly in the browser.
+5. Capture screenshots of each required step and include them in this README.
+
+> README.md file (for A2) should include the following items:
+>
+> - Screenshot of the **HelloWorld** servlet running in the browser  
+> - Screenshot of the **SayHello** (or `/hello/sayhi`) servlet running in the browser  
+> - Screenshot of the **querybook.html** page in the browser  
+> - Screenshot of the **querybook** query results page  
+> - Screenshot of the **a2/index.jsp** page running in the browser  
+
+---
+
+## Assignment 2 Screenshots  
+> All images are stored in the `a2/img/` directory.
+
+### 1. HelloWorld Servlet
+
+_Screenshot of the `HelloWorld` servlet running in the browser:_
+
+![HelloWorld servlet screenshot](img/helloworld.png)
+
+---
+
+### 2. SayHello Servlet
+
+_Screenshot of the `SayHello` (or `/hello/sayhi`) servlet running in the browser:_
+
+![SayHello servlet screenshot](img/sayhello.png)
+
+---
+
+### 3. querybook.html Form
+
+_Screenshot of `querybook.html` form page in the browser:_
+
+![querybook.html form screenshot](img/querybook.png)
+
+---
+
+### 4. querybook Query Results
+
+_Screenshot of the query results page after submitting `querybook.html` against the `ebookshop` database:_
+
+![querybook query results screenshot](img/querybook_query.png)
+
+---
+
+### 5. a2/index.jsp Running in Browser
+
+_Screenshot of the `a2/index.jsp` file running in the browser:_
+
+![a2 index.jsp screenshot](img/index.png)

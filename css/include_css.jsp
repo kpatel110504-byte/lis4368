@@ -20,12 +20,12 @@ http://stackoverflow.com/questions/32039568/what-are-the-integrity-and-crossorig
 <!-- Starter template for your own custom styling. -->
 <!-- https://stackoverflow.com/questions/7382607/how-to-load-css-file-into-jsp -->
 <style>
-	<%@ include file="/lis4368_student_file/WEB-INF/css/starter-template.css" %>
+	<%@ include file="/WEB-INF/css/starter-template.css" %>
 </style>
 
 <!-- Form validation styling. -->
 <style>
-	<%@ include file="/lis4368_student_file/WEB-INF/css/formValidation.min.css" %>
+	<%@ include file="/WEB-INF/css/formValidation.min.css" %>
 </style>
 
 <!-- jQuery DataTables: http://www.datatables.net/ //-->

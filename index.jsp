@@ -16,7 +16,7 @@
 	<title>Khushi Patel - LIS4638</title>
 >
 
-	<%@ include file="/lis4368_student_file/css/include_css.jsp" %>
+	<%@ include file="/css/include_css.jsp" %>
 
 		<!-- Carousel styles -->
 		<style type="text/css">
@@ -79,12 +79,12 @@
 
 <body>
 
-	<%@ include file="/lis4368_student_file/global/nav_global.jsp" %>
+	<%@ include file="/global/nav_global.jsp" %>
 
 		<div class="container">
 			<div class="starter-template">
 				<div class="page-header">
-					<%@ include file="/lis4368_student_file/global/header.jsp" %>
+					<%@ include file="/global/header.jsp" %>
 				</div>
 
       <!-- Start Bootstrap Carousel -->
@@ -165,12 +165,12 @@
       </div>
       <!-- End Bootstrap Carousel -->
 
-				<%@ include file="/lis4368_student_file/global/footer.jsp" %>
+				<%@ include file="/global/footer.jsp" %>
 
 			</div> <!-- end starter-template -->
 		</div> <!-- end container -->
 
-		<%@ include file="/lis4368_student_file/js/include_js.jsp" %>
+		<%@ include file="/js/include_js.jsp" %>
 
 </body>
 
