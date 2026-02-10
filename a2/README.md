@@ -32,23 +32,26 @@ Course: LIS4368 - Advanced Web Applications Development
 
 ### 1. HelloWorld Servlet
 
-_Screenshot of the `HelloWorld` servlet running in the browser:_ [http://localhost:9999/hello/Hello.html](http://localhost:9999/hello/Hello.html).
+_Screenshot of the `HelloWorld` servlet running in the browser:_  
+[http://localhost:9999/hello/Hello.html](http://localhost:9999/hello/Hello.html)
 
-![HelloWorld servlet screenshot](img/helloworld.png)
+![HelloWorld servlet screenshot](a2/img/helloworld.png)
 
 ---
 
 ### 2. SayHello Servlet
 
-\_Screenshot of the `SayHello` (or `/hello/sayhi`) servlet running in the browser:[http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello).
+_Screenshot of the `SayHello` (`/hello/sayhello`) servlet running in the browser:_  
+[http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello)
 
-![SayHello servlet screenshot](img/sayhello.png)
+![SayHello servlet screenshot](a2/img/sayhello.png)
 
 ---
 
 ### 3. querybook.html Form
 
-\_Screenshot of `querybook.html` form page in the browser:[[http://localhost:9999/hello/querybook.html](http://localhost:9999/hello/querybook.html).
+_Screenshot of the `querybook.html` form page in the browser:_  
+[http://localhost:9999/hello/querybook.html](http://localhost:9999/hello/querybook.html)
 
 ![querybook.html form screenshot](a2/img/querybook.png)
 
@@ -56,11 +59,10 @@ _Screenshot of the `HelloWorld` servlet running in the browser:_ [http://localho
 
 ### 4. querybook Query Results
 
-\_Screenshot of the query results page after submitting `querybook.html` against the `ebookshop` database:[\_http://localhost:9999/hello/query?author=Tan+Ah+Teck]
+_Screenshot of the query results page after submitting `querybook.html` against the `ebookshop` database:_  
+http://localhost:9999/hello/query?author=Tan+Ah+Teck
 
-![querybook query results screenshot](img/querybook_query.png)
-
----
+![querybook query results screenshot](a2/img/querybook_query.png)
 
 ### 5. a2/index.jsp Running in Browser
 
