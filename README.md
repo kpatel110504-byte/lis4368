@@ -17,7 +17,6 @@ This repository contains all assignments for LIS4368. Each assignment is documen
    - Screenshot of running `http://localhost:9999` in the browser
    - Screenshot of `a1/index.jsp` displayed in the browser
    - List of basic Git commands used, with short descriptions
-
 2. [A2 README.md](a2/README.md "My A2 README.md file")
    - Screenshot of `HelloWorld` servlet running in the browser
    - Screenshot of `SayHello` (or `/hello/sayhi`) servlet running in the browser
