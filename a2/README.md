@@ -33,7 +33,7 @@ Course: LIS4368 - Advanced Web Applications Development
 ### 1. HelloWorld Servlet
 
 _Screenshot of the `HelloWorld` servlet running in the browser:_  
-[http://localhost:9999/hello/Hello.html](http://localhost:9999/hello/Hello.html)
+[http://localhost:9999/hello/Hello.html](http://localhost:9999/hello/Hello.html).
 
 ![HelloWorld servlet screenshot](a2/img/helloworld.png)
 
@@ -42,7 +42,7 @@ _Screenshot of the `HelloWorld` servlet running in the browser:_
 ### 2. SayHello Servlet
 
 _Screenshot of the `SayHello` (`/hello/sayhello`) servlet running in the browser:_  
-[http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello)
+[http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello).
 
 ![SayHello servlet screenshot](a2/img/sayhello.png)
 
@@ -51,7 +51,7 @@ _Screenshot of the `SayHello` (`/hello/sayhello`) servlet running in the browser
 ### 3. querybook.html Form
 
 _Screenshot of the `querybook.html` form page in the browser:_  
-[http://localhost:9999/hello/querybook.html](http://localhost:9999/hello/querybook.html)
+[http://localhost:9999/hello/querybook.html](http://localhost:9999/hello/querybook.html).
 
 ![querybook.html form screenshot](a2/img/querybook.png)
 
