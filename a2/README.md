@@ -28,6 +28,7 @@ Course: LIS4368 - Advanced Web Applications Development
 ## Assignment 2 Screenshots
 
 > All images are stored in the `a2/img/` directory.
+> ![Hello servlet screenshot](img/Hello.png)
 
 ### 1. HelloWorld Servlet
 
