@@ -13,10 +13,10 @@ This repository contains all assignments for LIS4368. Each assignment is documen
 ### Course Work Links:
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-   -Screenshot of running Java Hello program in the terminal
-   -Screenshot of running `http://localhost:9999` in the browser
-   -Screenshot of `a1/index.jsp` displayed in the browser
-   -List of basic Git commands used, with short descriptions
+   - Screenshot of running Java Hello program in the terminal
+   - Screenshot of running `http://localhost:9999` in the browser
+   - Screenshot of `a1/index.jsp` displayed in the browser
+   - List of basic Git commands used, with short descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
    - Screenshot of `HelloWorld` servlet running in the browser
