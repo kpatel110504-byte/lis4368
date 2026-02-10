@@ -1,6 +1,7 @@
 # LIS4368 - Assignment 2
 
-## Khushi Patel  
+## Khushi Patel
+
 Course: LIS4368 - Mobile Web Application Development
 
 ---
@@ -15,15 +16,17 @@ Course: LIS4368 - Mobile Web Application Development
 
 > README.md file (for A2) should include the following items:
 >
-> - Screenshot of the **HelloWorld** servlet running in the browser  
-> - Screenshot of the **SayHello** (or `/hello/sayhi`) servlet running in the browser  
-> - Screenshot of the **querybook.html** page in the browser  
-> - Screenshot of the **querybook** query results page  
-> - Screenshot of the **a2/index.jsp** page running in the browser  
+> - Screenshot of the **HelloWorld** servlet running in the browser
+> - Screenshot of the **SayHello** (or `/hello/sayhi`) servlet running in the browser
+> - Screenshot of the **querybook.html** page in the browser
+> - Screenshot of the **querybook** query results page
+> - Screenshot of the **a2/index.jsp** page running in the browser
+> - Skillset screenshots (three images: `ss1.png`, `ss2.png`, `ss3.png`)
 
 ---
 
-## Assignment 2 Screenshots  
+## Assignment 2 Screenshots
+
 > All images are stored in the `a2/img/` directory.
 
 ### 1. HelloWorld Servlet
@@ -63,3 +66,11 @@ _Screenshot of the query results page after submitting `querybook.html` against 
 _Screenshot of the `a2/index.jsp` file running in the browser:_
 
 ![a2 index.jsp screenshot](img/index.png)
+
+---
+
+### Skillsets Screenshots
+
+| Skillset #1                 | Skillset #2                 | Skillset #3                 |
+| --------------------------- | --------------------------- | --------------------------- |
+| ![Skillset #1](img/ss1.png) | ![Skillset #2](img/ss2.png) | ![Skillset #3](img/ss3.png) |
