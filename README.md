@@ -13,6 +13,7 @@ This repository contains all assignments for LIS4368. Each assignment is documen
 ### Course Work Links:
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
+   - Screenshot of running Java Hello program in the terminal
 2. [A2 README.md](a2/README.md "My A2 README.md file")
 3. [P1 README.md](p1/README.md "My p1 README.md file")
 
