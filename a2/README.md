@@ -35,7 +35,7 @@ Course: LIS4368 - Advanced Web Applications Development
 _Screenshot of the `HelloWorld` servlet running in the browser:_  
 [http://localhost:9999/hello/Hello.html](http://localhost:9999/hello/Hello.html).
 
-![HelloWorld servlet screenshot](a2/img/helloworld.png)
+![HelloWorld servlet screenshot](/img/helloworld.png)
 
 ---
 
@@ -44,7 +44,7 @@ _Screenshot of the `HelloWorld` servlet running in the browser:_
 _Screenshot of the `SayHello` (`/hello/sayhello`) servlet running in the browser:_  
 [http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello).
 
-![SayHello servlet screenshot](a2/img/sayhello.png)
+![SayHello servlet screenshot](/img/sayhello.png)
 
 ---
 
