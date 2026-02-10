@@ -2,7 +2,7 @@
 
 ## Khushi Patel
 
-Course: LIS4368 - Mobile Web Application Development
+Course: LIS4368 - Advanced Web Applications Development
 
 ---
 
