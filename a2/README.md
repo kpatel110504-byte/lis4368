@@ -32,7 +32,7 @@ Course: LIS4368 - Advanced Web Applications Development
 
 ### 1. HelloWorld Servlet
 
-_Screenshot of the `HelloWorld` servlet running in the browser:_ [http://localhost:9999/hello/Hello.html](http://localhost:9999/hello/Hello.html)
+_Screenshot of the `HelloWorld` servlet running in the browser:_ [http://localhost:9999/hello/Hello.html](http://localhost:9999/hello/Hello.html).
 
 ![HelloWorld servlet screenshot](img/helloworld.png)
 
@@ -40,7 +40,7 @@ _Screenshot of the `HelloWorld` servlet running in the browser:_ [http://localho
 
 ### 2. SayHello Servlet
 
-\_Screenshot of the `SayHello` (or `/hello/sayhi`) servlet running in the browser:[http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello)
+\_Screenshot of the `SayHello` (or `/hello/sayhi`) servlet running in the browser:[http://localhost:9999/hello/sayhello](http://localhost:9999/hello/sayhello).
 
 ![SayHello servlet screenshot](img/sayhello.png)
 
@@ -48,7 +48,7 @@ _Screenshot of the `HelloWorld` servlet running in the browser:_ [http://localho
 
 ### 3. querybook.html Form
 
-\_Screenshot of `querybook.html` form page in the browser:[[http://localhost:9999/hello/querybook.html](http://localhost:9999/hello/querybook.html)
+\_Screenshot of `querybook.html` form page in the browser:[[http://localhost:9999/hello/querybook.html](http://localhost:9999/hello/querybook.html).
 
 ![querybook.html form screenshot](a2/img/querybook.png)
 
