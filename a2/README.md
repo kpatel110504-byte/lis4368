@@ -65,7 +65,7 @@ Screenshot of the query results page after submitting `querybook.html` against t
 ### 5. a2/index.jsp Running in Browser
 
 Screenshot of the `a2/index.jsp` file running in the browser:[http://localhost:9999/lis4368](http://localhost:9999/lis4368)
-![a2 index.jsp screenshot](img/index.p
+![a2 index.jsp screenshot](img/index.png)
 
 ---
 
