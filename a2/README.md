@@ -56,7 +56,7 @@ Screenshot of `querybook.html` form page in the browser:[http://localhost:9999/h
 
 ### 4. querybook Query Results
 
-Screenshot of the query results page after submitting `querybook.html` against the `ebookshop` database:[http://localhost:9999/hello/query?author=Tan+Ah+Teck] (http://localhost:9999/hello/query?author=Tan+Ah+Teck)
+Screenshot of the query results page after submitting `querybook.html` against the `ebookshop` database:[http://localhost:9999/hello/query?author=Tan+Ah+Teck](http://localhost:9999/hello/query?author=Tan+Ah+Teck)
 
 ![querybook query results screenshot](img/querybook_query.png)
 
