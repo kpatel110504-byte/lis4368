@@ -32,7 +32,7 @@ Course: LIS4368 - Advanced Web Applications Development
 
 ### 1. HelloWorld Servlet
 
-Screenshot of the `HelloWorld` servlet running in the browser: [http://localhost:9999/hello](http://localhost:9999/hello)
+Screenshot of the `HelloWorld` servlet running in the browser: [http://localhost:9999/hello/Hello.html](http://localhost:9999/hello/Hello.html)
 
 ![HelloWorld servlet screenshot](img/helloworld.png)
 
