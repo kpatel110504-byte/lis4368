@@ -1,7 +1,10 @@
 public class Methods
 {
  public static void getRequirements()
- {}
+ {
+    System.out.println("Devloper: Khushi Patel");
+    System.out.println("x:Program lists system properties.");
+ }
 
 public static void systemProperties()
     {
