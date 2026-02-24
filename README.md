@@ -28,7 +28,7 @@ This repository contains all assignments for LIS4368. Each assignment is documen
 - Complete Skillsets 1-3
 - Complete Chapter Questions
 
-3. [P1 README.md](p1/README.md "My p1 README.md file")
+3. [A3 README.md](p1/README.md "My a3 README.md file")
 
 - Screenshot of ERD.
 - Screenshot of populated tables.
