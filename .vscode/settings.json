@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": [
+    "skillsets/S.S-1  System_Properties",
+    "skillsets/S.S-2 Looping_Structure",
+    "skillsets/S.S-3 Number_Swap"
+  ],
+  "java.project.referencedLibraries": []
+}

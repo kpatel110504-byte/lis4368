@@ -11,15 +11,12 @@ System.out.println(); // print blank line
 }
 public static void arrayLoops(){
 /*
-    Java example:
+     example:
 //declare float array, with initial size of 5
 float[]] myFloats = new float[5];
 //populate array (zero-based)
 myFloats[O] = 1.0f;
 myFloats[1] = 2,1f;
-myFloats[2] = 3.2f;
-myFloats[3) = 4.3f;
-myFloats[4] = 5.4f;
 */
 //Or, populate array upon creation...
 //Java style float] myFloats
@@ -43,6 +40,7 @@ i++;
 }
 //reassign 0 to test variable
 System.out.println("/n do...while loop:");
+int=0;
 do{
     System.out.println(myFloats[i]);
     i++;

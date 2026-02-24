@@ -45,4 +45,14 @@ public class Methods {
 
         sc.close();
     }
+
+    public static void systemProperties() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'systemProperties'");
+    }
+
+    public static void arrayLoops() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'arrayLoops'");
+    }
 }
