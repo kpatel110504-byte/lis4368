@@ -121,6 +121,6 @@ The validation plugin shows icons next to inputs:
 
 ### Skillset 9
 
-![Skillsets 9 - Largest Three Numbers](img/Largest_ThreeNumbers.png)
+![Skillsets 9 - Largest Three Numbers](img/SS-9.png)
 
 ---
