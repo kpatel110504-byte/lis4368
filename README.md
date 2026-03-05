@@ -42,6 +42,11 @@ This repository contains all assignments for LIS4368. Each assignment is documen
 
 6. [P1 README.md](p2/README.md "My P1 README.md file")
 
+- LIS4368 Portal and customer form validation project.
+- jQuery and HTML5 validation for customer entity form.
+- Screenshots of portal, failed validation, and successful validation.
+- skillsrts 7-9
+
 7. [P2 README.md](p2/README.md "My P2 README.md file")
 
 ---
