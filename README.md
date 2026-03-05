@@ -40,7 +40,7 @@ This repository contains all assignments for LIS4368. Each assignment is documen
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
 
-6. [P1 README.md](p2/README.md "My P1 README.md file")
+6. [P1 README.md](p1/README.md "My P1 README.md file")
 
 - LIS4368 Portal and customer form validation project.
 - jQuery and HTML5 validation for customer entity form.
