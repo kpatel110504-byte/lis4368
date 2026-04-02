@@ -6,17 +6,17 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="My online portfolio that illustrates skills acquired while working through various project requirements.">
-	<meta name="author" content="Mark K. Jowett, Ph.D.">
+	<meta name="author" content="Khushi Patel">
 	<link rel="icon" href="favicon.ico">
-
-	<title>CRSXXXX - JSP Forms</title>
+ <link rel="stylesheet" href="./css/fsu-theme.css" />
+	<title>LIS4368 - JSP Forms</title>
 
 	<%@ include file="/css/include_css.jsp" %>		
 	
 </head>
 <body>
 
-	<%@ include file="/global/nav_global.jsp" %>	
+	<%@ include file="./global/nav_global.jsp" %>	
 
 	<div class="container">
 		<div class="starter-template">
@@ -32,9 +32,17 @@
 			<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
 			<% //<c:out... prevents cross-site scripting (XSS) attack (escapes output) %>
-			<label>FName:</label> <c:out value="${user.fname}" /> <br />
-			<label>LName:</label> <c:out value="${user.lname}" /> <br />
-			<label>Email:</label> <c:out value="${user.email}" /> <br />
+			            <label>FName:</label> <c:out value="${user.fname}" /> <br />
+						<label>LName:</label> <c:out value="${user.lname}" /> <br />
+						<label>Street:</label> <c:out value="${user.street}" /> <br />
+						<label>City:</label> <c:out value="${user.city}" /> <br />
+						<label>State:</label> <c:out value="${user.state}" /> <br />
+						<label>Zip:</label> <c:out value="${user.zip}" /> <br />
+						<label>Phone:</label> <c:out value="${user.phone}" /> <br />
+						<label>Email:</label> <c:out value="${user.email}" /> <br />
+						<label>Balance:</label> <c:out value="${user.balance}" /> <br />
+						<label>Total Sales:</label> <c:out value="${user.totalSales}" /> <br />
+						<label>Notes:</label> <c:out value="${user.notes}" /> <br />
 
 			<p>To enter another record click Return.</p>
 
