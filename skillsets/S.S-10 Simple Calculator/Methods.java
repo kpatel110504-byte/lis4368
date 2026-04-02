@@ -5,7 +5,7 @@ public class Methods {
 	// create method without returning any value
 	public static void getRequirements() {
 		// display operational messages
-		System.out.println("Developer: Sydney Sprague");
+		System.out.println("Developer: Khushi Patel");
 		System.out.println("Program Requirements:");
 		System.out.println("Note: Program checks for non-numeric values and division by zero.");
 		System.out.println();

@@ -5,7 +5,7 @@ public class Methods {
 	// Create method without returning any value (without object)
 	public static void getRequirements() {
 		// display operational messages
-		System.out.println("Developer: Sydney Sprague");
+		System.out.println("Developer: Khushi Patel");
 		System.out.println("Program Requirements:");
 		System.out.println(
 				"1. Create a string array (str1), based on users' number of preferred programming languages, limit 5.");
