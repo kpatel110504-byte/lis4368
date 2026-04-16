@@ -49,10 +49,10 @@ stored inside an XML document is identical to the URL
 Note (remove EDT error): &amp;serverTimezone=UTC
 	-->
     <Resource
-				url="jdbc:mysql://localhost:3306/yourfsuid?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=UTC"				
+				url="jdbc:mysql://localhost:3306/kyp22?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=UTC"				
 				type="javax.sql.DataSource"
 				driverClassName="com.mysql.cj.jdbc.Driver"
-				name="jdbc/yourfsuid"
+				name="jdbc/kyp22"
 				auth="Container"
 				username="yourmysqlusername"
 				password="yourmysqlpassword"

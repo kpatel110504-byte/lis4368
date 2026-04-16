@@ -23,6 +23,7 @@ import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
 import crud.business.Customer;
+import crud.data.CustomerDB;
 
 @WebServlet("/customerAdmin")
 public class CustomerServlet extends HttpServlet
@@ -94,6 +95,7 @@ public class CustomerServlet extends HttpServlet
             }
             else
             {
+				CustomerDB.insert(user);
                 message = "";
                 url = "/thanks.jsp";
             }
