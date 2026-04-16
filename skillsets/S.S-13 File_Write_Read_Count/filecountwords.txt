@@ -1,4 +1,4 @@
-This is
-some
-text
-Example!
+This
+is
+some example
+text!
