@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource
+        name="jdbc/kyp22"
+        auth="Container"
+        type="javax.sql.DataSource"
+        driverClassName="com.mysql.cj.jdbc.Driver"
+        url="jdbc:mysql://localhost:3306/kyp22?useSSL=false&amp;serverTimezone=UTC"
+        username="root"
+        password="mysql"
+        maxTotal="100"
+        maxIdle="30"
+        maxWaitMillis="10000"
+        logAbandoned="true"
+        removeAbandonedOnBorrow="true"
+        removeAbandonedOnMaintenance="true"
+        removeAbandonedTimeout="60" />
+</Context>
